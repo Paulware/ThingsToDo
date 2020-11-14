@@ -1,7 +1,2 @@
 List of things I need to do:<br>
-<ul>
-   <li>Power strip in living room</li>
-   <li>Bathroom</li>
-   <li>Toilet</li>
-   <li>Attic remodel</li>   
-</ul>
+<h2><a href="http://Paulware.github.io/ThingsToDo/index.html">List</a></h2>
